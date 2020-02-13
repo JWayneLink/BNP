@@ -15,5 +15,10 @@ namespace ConsoleApp1
             Console.WriteLine("test3");
             Console.ReadKey();
         }
+
+        public static string MasIsStupid()
+        {
+            return "IMDD31";
+        }
     }
 }
